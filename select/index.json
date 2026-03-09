@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "ERROR 403: guitar medicine",
+  "base_artist": "Asian Hideout",
+  "createdAt": "2026-03-09T12:35:40.563964Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Error",
+      "artist": "Madeline Juno",
+      "has_synced": true,
+      "path": "select/01_Error_Madeline_Juno.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Trial And Error",
+      "artist": "Maxïmo Park",
+      "has_synced": false,
+      "path": "select/02_Trial_And_Error_Maxïmo_Park.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "A New Error (Headhunter Remix)",
+      "artist": "Moderat",
+      "has_synced": false,
+      "path": "select/03_A_New_Error_(Headhunter_Remix)_Moderat.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Human Error",
+      "artist": "Xilent",
+      "has_synced": true,
+      "path": "select/04_Human_Error_Xilent.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Human Error",
+      "artist": "Oh Land",
+      "has_synced": true,
+      "path": "select/05_Human_Error_Oh_Land.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Deadly Error (Remastered 2015)",
+      "artist": "Rage",
+      "has_synced": false,
+      "path": "select/06_Deadly_Error_(Remastered_2015)_Rage.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Error: Operator",
+      "artist": "Taking Back Sunday",
+      "has_synced": true,
+      "path": "select/07_Error__Operator_Taking_Back_Sunday.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Error: Operator (Live At Long Beach Arena / Long Beach, CA / 2007)",
+      "artist": "Taking Back Sunday",
+      "has_synced": false,
+      "path": "select/08_Error__Operator_(Live_At_Long_Beach_Arena___Long_Beach,_CA___2007)_Taking_Back_Sunday.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Error: Operator - Live In Long Beach 2006",
+      "artist": "Taking Back Sunday",
+      "has_synced": false,
+      "path": "select/09_Error__Operator_-_Live_In_Long_Beach_2006_Taking_Back_Sunday.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Who Are You - Bit Error Remix",
+      "artist": "Fifth Harmony",
+      "has_synced": true,
+      "path": "select/10_Who_Are_You_-_Bit_Error_Remix_Fifth_Harmony.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Who Are You (Bit Error Remix)",
+      "artist": "Fifth Harmony",
+      "has_synced": true,
+      "path": "select/11_Who_Are_You_(Bit_Error_Remix)_Fifth_Harmony.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Circle of Error",
+      "artist": "Sixpence None the Richer",
+      "has_synced": true,
+      "path": "select/12_Circle_of_Error_Sixpence_None_the_Richer.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Pilot Error - Single Version",
+      "artist": "Stephanie Mills",
+      "has_synced": true,
+      "path": "select/13_Pilot_Error_-_Single_Version_Stephanie_Mills.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Pilot Error (Single Version)",
+      "artist": "Stephanie Mills",
+      "has_synced": true,
+      "path": "select/14_Pilot_Error_(Single_Version)_Stephanie_Mills.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ERROR 403: guitar medicine",
+      "artist": "Asian Hideout, BluhEw",
+      "has_synced": false,
+      "path": "select/pl_01_ERROR_403__guitar_medicine_Asian_Hideout,_BluhEw.txt"
+    }
+  ]
+}
